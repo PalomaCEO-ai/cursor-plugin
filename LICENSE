@@ -1,0 +1,17 @@
+Copyright (c) 2026 PalomaFinTech LLC. All rights reserved.
+
+This repository and everything in it — the plugin manifests, the skill text, the README files and the icon — are the
+property of PalomaFinTech LLC. They are published so that Grok Bot and Cursor can install the PalomaCEO.ai for Business plugin.
+
+You may install and use the plugin, unchanged, to connect Grok Bot or Cursor to a PalomaCEO.ai account you are allowed to use.
+That use is governed by the PalomaCEO.ai End User License Agreement (https://palomaceo.ai/eula) and Privacy Policy
+(https://palomaceo.ai/privacy). No other right is granted: you may not copy, modify, redistribute, sublicense or
+publish this material, in whole or in part, except as needed for that installation or as the law allows.
+
+"PalomaCEO.ai", "Paloma" and the PalomaCEO.ai logo are trademarks of PalomaFinTech LLC. "Grok" is a trademark of
+xAI and "Cursor" a trademark of Anysphere, Inc.; PalomaCEO.ai is not affiliated with or endorsed by either.
+
+THE MATERIAL IN THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The PalomaCEO.ai service it connects
+to is provided under the End User License Agreement.
+
+Contact: support@palomaceo.ai

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "palomaceo-business": {
+      "url": "https://mcp.palomaceo.ai/business",
+      "auth": {
+        "CLIENT_ID": "cursor"
+      }
+    }
+  }
+}

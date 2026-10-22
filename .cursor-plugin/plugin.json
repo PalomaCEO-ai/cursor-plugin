@@ -1,0 +1,15 @@
+{
+  "name": "palomaceo-business",
+  "displayName": "PalomaCEO.ai for Business",
+  "version": "1.0.0",
+  "description": "Run your business on PalomaCEO.ai from Grok Bot or Cursor: social media, your menu in Paloma, your website and ordering page, online ordering and delivery, and sales reports. Every change waits for your own tap.",
+  "author": {
+    "name": "PalomaCEO.ai",
+    "email": "support@palomaceo.ai"
+  },
+  "homepage": "https://palomaceo.ai/help#ai-assistants",
+  "repository": "https://github.com/PalomaCEO-ai/cursor-plugin",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["restaurant", "small-business", "social-media", "menu", "website", "sales"],
+  "logo": "assets/logo.png"
+}
